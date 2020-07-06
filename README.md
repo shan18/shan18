@@ -11,7 +11,7 @@
 </p>
 
 To know more about me, check the links below:
-- :camera: [https://www.instagram.com/shan_1.0/](Instagram)
+- :camera: [Instagram](https://www.instagram.com/shan_1.0/)
 - :desktop_computer: [Blog](https://shan18.github.io/)
 
 <!--
