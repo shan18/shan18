@@ -1,4 +1,18 @@
-### Hi there 👋
+<h3 align="center">Hi, there 👋 :sunglasses:</h3>
+
+<p align="center">
+  <samp>
+    I am an Artificial Intelligence Engineer who likes to build awesome open-source projects.<br />
+    You can see a list of my best projects below 😄
+  </samp>
+  <br/><br/>
+  <img src="https://media.giphy.com/media/hHCP7G1ySa9wc/giphy.gif" />
+  <br/>
+</p>
+
+To know more about me, check the links below:
+- :camera: [https://www.instagram.com/shan_1.0/](Instagram)
+- :desktop_computer: [Blog](https://shan18.github.io/)
 
 <!--
 **shan18/shan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
