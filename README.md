@@ -6,7 +6,8 @@
     You can see a list of my best projects below 😄
   </samp>
   <br/><br/>
-  <img src="https://media.giphy.com/media/hHCP7G1ySa9wc/giphy.gif" />
+<!--   <img src="https://media.giphy.com/media/hHCP7G1ySa9wc/giphy.gif" /> -->
+  <img src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" />
   <br/>
 </p>
 
