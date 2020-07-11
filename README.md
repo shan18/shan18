@@ -11,6 +11,8 @@
   <br/>
 </p>
 
+![github stats](https://github-readme-stats.vercel.app/api?username=shan18&show_icons=true)
+
 To know more about me, check the links below:
 - :camera: [Instagram](https://www.instagram.com/shan_1.0/)
 - :desktop_computer: [Blog](https://shan18.github.io/)
