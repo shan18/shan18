@@ -11,11 +11,25 @@
   <br/>
 </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=shan18&show_icons=true)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shan18&show_icons=true" />
+</p>
 
-To know more about me, check the links below:
-- :camera: [Instagram](https://www.instagram.com/shan_1.0/)
-- :desktop_computer: [Blog](https://shan18.github.io/)
+<p align="center">
+  Want to connect?<br/>
+  <a href="https://shan18.github.io/">
+    <img align="center" alt="Portfolio" width="15px" src="icons/code.svg" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/shanacharya/">
+    <img align="center" alt="Linkedin" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>&nbsp;
+  <a href="https://t.me/imSAcharya">
+    <img align="center" alt="Telegram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/shan_1.0/">
+    <img align="center" alt="Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</p>
 
 <!--
 **shan18/shan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,3 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
