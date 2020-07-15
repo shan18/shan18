@@ -18,7 +18,7 @@
 <p align="center">
   Want to connect?<br/>
   <a href="https://shan18.github.io/">
-    <img align="center" alt="Portfolio" width="15px" src="icons/code.svg" />
+    <img align="center" alt="Portfolio" width="20px" src="images/code.svg" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/shanacharya/">
     <img align="center" alt="Linkedin" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
