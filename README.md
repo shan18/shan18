@@ -6,8 +6,8 @@
     You can see a list of my best projects below 😄
   </samp>
   <br/><br/>
-  <img src="https://media.giphy.com/media/hHCP7G1ySa9wc/giphy.gif" width="400" />
-<!--   <img src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" width="300" /> -->
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<!--   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Coder GIF" /> -->
   <br/>
 </p>
 
