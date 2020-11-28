@@ -47,11 +47,15 @@
 
 <br />
 
-
+<!--
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=shan18&show_icons=true&count_private=true&hide_border=true&hide_title=true" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shan18&color=blue&style=flat" alt="shan18" />
+</p>
+-->
 
 
 <h3 align="center">Want to connect?</h3>
