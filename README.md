@@ -54,7 +54,7 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shan18&show_icons=true&count_private=true&hide_border=true&hide_title=true&icon_color=fb4934&text_color=9f9f9f&bg_color=3c383c" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shan18&show_icons=true&count_private=true&hide_border=true&hide_title=true&icon_color=fb4934&text_color=9f9f9f&bg_color=3c383c&hide_rank=true" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=shan18&theme=nord" alt="shan18" />
 </p>
 
